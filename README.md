@@ -54,6 +54,7 @@ Build a ToDo App that allows users to:
 2. Build your app there using Vite + React or any other stack.
 3. Once you're done, **create a Pull Request**.
 4. Make sure your app runs correctly and looks good on different screen sizes.
+5. HOST YOUR WEBSITE WITH PLATFORMS LIKE [VERCEL](https://vercel.com/).
 
 ---
 
