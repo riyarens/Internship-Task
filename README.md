@@ -1,55 +1,71 @@
-# 🚀 Internship Task – Landing Page Challenge
+# 🚀 Internship Task – ToDo App using React
 
-Design a beautiful, responsive landing page for our fictional global hackathon event using **any tech stack** of your choice. This is your chance to get creative while following a basic brief.
+Your challenge is to build a clean, functional, and responsive **ToDo App** using **React**. This task will showcase your understanding of front-end development, component structure, and user interaction.
 
 ---
 
 ## 📝 Task Description
 
-Create a landing page for our fictional hackathon - **HackSphere 2025**, a global 48-hour hackathon bringing together developers, designers, and creators.
+Build a ToDo App that allows users to:
 
-### 🎯 Required Sections
-
-#### 1. 🔥 Hero Section
-- Event Name: `HackSphere 2025`(fictional)
-- Tagline: _“Code. Create. Conquer.”_
-- Event Date & Location: `June 20–22, 2025 – Online`
-- CTA Button: **Register Now**
-
-#### 2. ℹ️ About Section
-- Brief description of the event (1–2 short paragraphs)
-
-#### 3. 🔻 Footer
-- Centered text: `© 2025 HackSphere. All rights reserved.`
+- Add tasks
+- Mark tasks as completed or not
+- Delete tasks
 
 ---
 
-## 💡 Guidelines
+## 🎯 Required Features
 
-- You can use **any tech stack** of your choice. (Using any framework gets more weightage, eg: React, Svelte, etc.)
-- Feel free to add **extra sections** like FAQs, Schedule, Partners, or Contact if you’d like.
-- No backend is required – keep it front-end only.
-- You **can use AI (e.g., ChatGPT)** or **Google** to help with ideas, design, or code.
-- Keep it **simple and clean**.
+### 🧾 Core Requirements
+
+- ✅ Add new tasks
+- ✅ Display tasks
+- ✅ Mark tasks as complete/incomplete
+- ✅ Delete tasks
+
+### ✨ Bonus (Optional)
+
+- 🔄 Filter tasks: All / Active / Completed
+- 💾 Persist tasks using `localStorage`
+- 📱 Make it mobile responsive
+- 🎨 Use modern UI libraries like [ShadCN UI](https://ui.shadcn.com/) for better design
+
+---
+
+## 🛠 Tech Stack Guidelines
+
+- You **must use React**.
+- You can use **Vite** (recommended for faster setup).
+- You may use **ShadCN UI**, **Tailwind CSS**, or any other modern styling solution.
+
+---
+
+## 🧠 Tips
+
+- Use functional components and hooks (`useState`, `useEffect`, etc.)
+- Keep your components modular
+- Ensure a smooth and simple user experience
 
 ---
 
 ## 🔧 Submission Instructions
 
 1. **Fork** this repository.
-2. Build your project inside a folder with your name.
+2. Build your app there using Vite + React or any other stack.
 3. Once you're done, **create a Pull Request**.
-4. Make sure your code is working, and your landing page opens correctly in the browser.
+4. Make sure your app runs correctly and looks good on different screen sizes.
+5. HOST YOUR WEBSITE WITH PLATFORMS LIKE [VERCEL](https://vercel.com/).
 
 ---
 
-## 🧑‍💻 Need Help?
+## 💬 Need Help?
 
-If you get stuck or have questions:
+If you get stuck:
 - Use Google or AI tools like ChatGPT
-- Or feel free to **reach out to us** for support!
+- Check out [Vite Docs](https://vitejs.dev/guide/)
+- Explore [ShadCN UI](https://ui.shadcn.com/docs/installation)
+- Get in touch with your team lead or team mates for support.
 
 ---
 
-## 🙌 Good Luck!
-
+## 🙌 Good Luck & Happy Coding!
